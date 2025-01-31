@@ -1,0 +1,150 @@
+.hero {
+  background-color: #D8D8D8;
+  color: #fff;
+  padding: 50px 0;
+  width:auto;
+  height: 50%;
+}
+
+.hero h1 {
+  font-family: 'Georgia', serif;
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.hero .btn {
+  margin: 10px;
+}
+
+.about {
+  padding: 50px 0;
+  background-color: #f9f3f5;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+}
+
+.menu {
+  padding: 50px 0;
+  background-color: #fef1f3;
+  text-align: center;
+}
+
+.menu h2 {
+  font-size: 2.5rem;
+}
+
+.menu img {
+  width:50% ;
+  height: auto;
+  border-radius: 10px;
+}
+
+.navbar-brand {
+  color: #DDBE8B;
+}
+
+.About-us {
+  color: #DDBE8B;
+}
+
+.btn-order {
+  background-color: #DDBE8B;
+  color: #fff;
+}
+
+.btn-order-now {
+  background-color: #DDBE8B;
+  color: #fff;
+}
+
+.testimonial-card {
+  background-color: #fbeeee;
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  min-height: 300px;
+  
+}
+
+.testimonial-card img {
+  width: 50px !important;
+  height: 50px;
+  border-radius: 50%;
+  display: inline !important;
+}
+
+.testimonial-card .rating {
+  color: #ffa41b;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.contact-icon {
+  background-color: #DDBE8B;
+
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-text {
+  font-size: 0.9rem;
+}
+
+.contact-title {
+  font-weight: bold;
+  color: #DDBE8B;
+}
+
+.About-img {
+  width: 80%;
+}
+
+.text-contact {
+  color: white;
+}
+
+.text-contactus{
+  color: #DDBE8B;
+}
+
+.roboto {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 200%;
+}
+
+.text-muted {
+  font-size: 150%;
+}
+
+.coffee {
+  width:60% ;
+  height: auto;
+
+}
+
+.best {
+  font-size: 100%;
+}
+
+.Check Our Coffee Menu {
+  font-size: ;
+  font-weight: bold;
+}
